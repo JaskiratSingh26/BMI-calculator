@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(165, 113, 181);
+}
+
+.container{
+
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+  margin: auto;
+ padding: 2vh;
+max-height: max-content;
+     max-width: max-content;
+}
+
+
+h1{
+    border-bottom: 2px solid black;
+font-size:xx-large;
+font-weight: bold;
+font-family: cursive;
+font-style: italic;
+}
+.btn{
+    background-color: rgb(196, 63, 196);
+border: 2px solid black;
+width: 10vh;
+    border-radius: 3vh;
+}
+
+
+
+
